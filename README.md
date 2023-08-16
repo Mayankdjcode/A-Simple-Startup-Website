@@ -1,2 +1,2 @@
-# A-Simple-Startup-Website
+# Simple-Startup-Website
 Website "DogMate" with HTML and CSS
